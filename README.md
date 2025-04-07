@@ -1,10 +1,5 @@
-## Hi there 👋
+## Hey there 👋
 
-I'm a big fan of Digital Ocean's services (like their small $5/mo servers) for hosting projects and expiriments.
+I've been experimenting with Robinhood on the side lately and I've really been enjoying the simple features they offer. For anyone interested, you can sign up for Robinhood with my link and we'll both pick our own gift stock 🎁
 
-If you want to try them out I have a referral link:  
-https://m.do.co/c/c9a695f20505
-
-**Each person referred gets $200 in credit over 60 days.**
-
-![Digital Ocean](https://github.com/gunthercox/gunthercox/blob/main/assets/digital-ocean-logo.png?raw=true)
+https://join.robinhood.com/gunthec1
